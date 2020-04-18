@@ -415,7 +415,7 @@ void drawMenu() {
 			MENU_OPTION("Ctrl Options");
 			MENU_OPTION("Exit Game");
 			MENU_OPTION("Suspend vita");
-			MENU_OPTION("Restart vita");
+			MENU_OPTION("chong qi vita");
 			MENU_OPTION("Shutdown vita");
 			break;
 		case 1:
